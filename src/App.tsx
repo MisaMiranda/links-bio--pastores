@@ -31,7 +31,7 @@ export default function App() {
     },
     {
       title: 'Facebook',
-      url: 'https://www.facebook.com/friends/requests/?profile_id=100003632628421',
+      url: 'https://www.facebook.com/antonio.s.miranda.3',
       subtitle: 'Acompanhe nossas mensagens e eventos',
       icon: <Facebook className="w-5 h-5" />,
     },
